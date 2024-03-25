@@ -10,3 +10,5 @@ Data visualization tools: Matplotlib, Seaborn, Plotly<br>
 Version control: Git, GitHub<br>
 
 📚 I'm constantly learning and staying updated with the latest advancements in data science and machine learning
+
+Let's connect! You can reach me via email at balamariappan20@gmail.com or connect with me on https://www.linkedin.com/in/balakameshmariappan/
