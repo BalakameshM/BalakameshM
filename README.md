@@ -2,8 +2,8 @@
 
 🔧 I have hands-on experience with a wide range of data science tools and technologies, including:
 
-Programming languages: Python(including Streamlit), SQL
-Machine learning libraries: Scikit-learn
+Programming languages: Python(including Streamlit), SQL.
+Machine learning libraries: Scikit-learn.
 Data visualization tools: Matplotlib, Seaborn, Plotly, 
 Version control: Git, GitHub
 
